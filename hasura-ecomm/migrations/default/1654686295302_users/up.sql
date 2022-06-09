@@ -3,7 +3,5 @@ CREATE TABLE  IF NOT EXISTS "public". "user"(
 "name" TEXT NOT NULL,
 
 
-
-
 CONSTRAINT "user_pkey" PRIMARY KEY ("id")
 );

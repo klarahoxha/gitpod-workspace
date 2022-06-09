@@ -1,1 +1,1 @@
-SELECT NOW();
+DROP TABLE IF EXISTS "messages";
